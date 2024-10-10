@@ -1,0 +1,36 @@
+{
+  "users": [
+    { "email": "admin@smallbiz.com", "role": "admin" },
+    { "email": "employee1@smallbiz.com", "role": "employee" },
+    { "email": "employee2@smallbiz.com", "role": "employee" }
+  ],
+  "external_emails": ["external@gmail.com", "unknown@server.com"],
+  "files": {
+    "valid": ["Client_List.xlsx", "Project_Plan.docx"],
+    "sensitive": ["Financial_Reports.pdf"]
+  },
+  "external_destinations": ["usb_drive", "external_server"],
+  "event_distribution": {
+    "login": { "valid": 50, "threat": 5 },
+    "file_access": { "valid": 30, "threat": 3 },
+    "file_transfer": { "valid": 10, "threat": 2 },
+    "emails": { "valid": 20, "threat": 1 }
+  },
+  "time_settings": {
+    "work_hours_start": "08:00",
+    "work_hours_end": "17:00",
+    "off_hours_activity_rate": 0.1
+  },
+  "date_range": {
+    "start_time": "2024-02-01 00:00:00",
+    "end_time": "2024-02-07 23:59:59"
+  },
+  "threat_settings": {
+    "privilege_escalation_success_rate": 0.1,
+    "email_external_attachment_rate": 0.1
+  },
+  "interval_distribution": {
+    "min_interval": 0.5,
+    "max_interval": 1.0
+  }
+}

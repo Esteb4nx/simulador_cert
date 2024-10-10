@@ -1,0 +1,38 @@
+{
+  "users": [
+    { "email": "admin@largebiz.com", "role": "admin" },
+    { "email": "manager@largebiz.com", "role": "manager" },
+    { "email": "employee1@largebiz.com", "role": "employee" },
+    { "email": "employee2@largebiz.com", "role": "employee" },
+    { "email": "contractor@largebiz.com", "role": "contractor" }
+  ],
+  "external_emails": ["external1@gmail.com", "unknown@server.com"],
+  "files": {
+    "valid": ["Annual_Report.pdf", "Project_Updates.xlsx"],
+    "sensitive": ["Executive_Plan.pdf", "HR_Records_Sensitive.docx"]
+  },
+  "external_destinations": ["external_server", "unsecure_drive"],
+  "event_distribution": {
+    "login": { "valid": 300, "threat": 80 },
+    "file_access": { "valid": 200, "threat": 60 },
+    "file_transfer": { "valid": 100, "threat": 40 },
+    "emails": { "valid": 150, "threat": 50 }
+  },
+  "time_settings": {
+    "work_hours_start": "08:00",
+    "work_hours_end": "20:00",
+    "off_hours_activity_rate": 0.3
+  },
+  "date_range": {
+    "start_time": "2024-04-01 00:00:00",
+    "end_time": "2024-04-10 23:59:59"
+  },
+  "threat_settings": {
+    "privilege_escalation_success_rate": 0.4,
+    "email_external_attachment_rate": 0.5
+  },
+  "interval_distribution": {
+    "min_interval": 0.2,
+    "max_interval": 0.6
+  }
+}

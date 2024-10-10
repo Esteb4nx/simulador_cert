@@ -1,0 +1,38 @@
+{
+  "users": [
+    { "email": "admin@crisisbiz.com", "role": "admin" },
+    { "email": "employee1@crisisbiz.com", "role": "employee" },
+    { "email": "employee2@crisisbiz.com", "role": "employee" },
+    { "email": "contractor@crisisbiz.com", "role": "contractor" },
+    { "email": "intern@crisisbiz.com", "role": "intern" }
+  ],
+  "external_emails": ["external_hacker@gmail.com", "malicious@server.com"],
+  "files": {
+    "valid": ["Routine_Report.docx", "Team_Notes.pdf"],
+    "sensitive": ["Critical_Plan.docx", "Executive_Strategy.pdf"]
+  },
+  "external_destinations": ["malicious_cloud", "usb_unauthorized"],
+  "event_distribution": {
+    "login": { "valid": 200, "threat": 150 },
+    "file_access": { "valid": 150, "threat": 100 },
+    "file_transfer": { "valid": 70, "threat": 90 },
+    "emails": { "valid": 80, "threat": 120 }
+  },
+  "time_settings": {
+    "work_hours_start": "08:00",
+    "work_hours_end": "20:00",
+    "off_hours_activity_rate": 0.5
+  },
+  "date_range": {
+    "start_time": "2024-05-01 00:00:00",
+    "end_time": "2024-05-07 23:59:59"
+  },
+  "threat_settings": {
+    "privilege_escalation_success_rate": 0.6,
+    "email_external_attachment_rate": 0.7
+  },
+  "interval_distribution": {
+    "min_interval": 0.1,
+    "max_interval": 0.3
+  }
+}

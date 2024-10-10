@@ -1,0 +1,37 @@
+{
+  "users": [
+    { "email": "admin@mediumbiz.com", "role": "admin" },
+    { "email": "employee1@mediumbiz.com", "role": "employee" },
+    { "email": "employee2@mediumbiz.com", "role": "employee" },
+    { "email": "contractor1@mediumbiz.com", "role": "contractor" }
+  ],
+  "external_emails": ["external_user@gmail.com", "external_corp@server.com"],
+  "files": {
+    "valid": ["Sales_Data.xlsx", "HR_Policies.pdf"],
+    "sensitive": ["Financial_Reports.pdf", "Contracts_Sensitive.docx"]
+  },
+  "external_destinations": ["cloud_storage", "external_usb"],
+  "event_distribution": {
+    "login": { "valid": 100, "threat": 30 },
+    "file_access": { "valid": 80, "threat": 25 },
+    "file_transfer": { "valid": 40, "threat": 15 },
+    "emails": { "valid": 60, "threat": 10 }
+  },
+  "time_settings": {
+    "work_hours_start": "09:00",
+    "work_hours_end": "18:00",
+    "off_hours_activity_rate": 0.2
+  },
+  "date_range": {
+    "start_time": "2024-03-01 00:00:00",
+    "end_time": "2024-03-07 23:59:59"
+  },
+  "threat_settings": {
+    "privilege_escalation_success_rate": 0.25,
+    "email_external_attachment_rate": 0.3
+  },
+  "interval_distribution": {
+    "min_interval": 0.3,
+    "max_interval": 0.7
+  }
+}
