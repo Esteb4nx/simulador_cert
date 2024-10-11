@@ -1,739 +1,197 @@
-2024-01-07 18:39:52 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-04 13:11:16 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 20:54:51 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 22:39:56 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 05:24:02 | From=user3@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-03 12:26:45 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-03 20:56:07 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 10:01:23 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 14:12:05 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 05:54:49 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 22:47:12 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 13:37:49 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 01:48:16 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 16:43:26 | From=admin@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 21:37:55 | From=admin@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 11:58:29 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 22:21:35 | From=user3@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 16:54:50 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 04:04:28 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 07:32:30 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 13:51:22 | From=admin@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 17:17:22 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 07:27:40 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 20:54:23 | From=user3@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 14:41:21 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 21:25:13 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 01:25:35 | From=user3@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 15:13:40 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-02 11:22:15 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 18:42:02 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-07 12:28:31 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 07:45:27 | From=user3@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-06 05:37:45 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 13:32:40 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-06 09:36:06 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 04:48:15 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 19:29:51 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-05 00:48:58 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 02:03:58 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 00:53:10 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 11:04:21 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 10:29:13 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 04:35:49 | From=admin@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 14:12:05 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 17:43:14 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 15:08:42 | From=user1@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 13:57:32 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 22:44:44 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 19:07:41 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 20:51:06 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 15:08:42 | From=user1@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 20:30:22 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 02:52:00 | From=user3@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 11:02:54 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-06 18:56:05 | From=admin@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-06 07:07:38 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 17:31:36 | From=admin@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 21:11:06 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 11:11:27 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 07:19:35 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 15:06:12 | From=user3@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 15:35:53 | From=user2@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 07:51:46 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 04:59:58 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 03:48:31 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-01 21:59:51 | From=admin@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 17:58:58 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-03 13:56:20 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 20:02:59 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 22:21:04 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 11:59:55 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 03:29:10 | From=admin@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 03:29:10 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 21:43:44 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 13:11:11 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 08:26:16 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 19:09:32 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 16:39:30 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 07:32:11 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 11:35:40 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 03:05:13 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 16:08:12 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 21:35:35 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-07 07:14:44 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 00:10:50 | From=user1@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 20:52:46 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 19:51:50 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 11:41:16 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 03:42:43 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 08:37:57 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 16:15:18 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 09:20:01 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 02:29:16 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 13:01:12 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 03:15:41 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 09:01:09 | From=admin@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-04 02:43:22 | From=user1@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-06 22:27:38 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 20:49:24 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 13:50:53 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 10:38:35 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-04 13:16:09 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 09:41:36 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 00:27:47 | From=user2@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 23:46:25 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 09:51:33 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 13:26:00 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 10:59:20 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 05:50:06 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 05:09:39 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 15:32:45 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 19:34:55 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 13:55:12 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 23:08:44 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 13:08:07 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 10:21:19 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 15:38:50 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 05:50:07 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 21:49:15 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 23:43:32 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 07:10:09 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-06 12:07:02 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 11:04:00 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 22:07:19 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 11:42:48 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 10:05:14 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 09:52:07 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 04:51:37 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 13:33:18 | From=admin@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 06:08:20 | From=user2@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 11:41:11 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 22:23:17 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-03 09:07:24 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 20:40:49 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 17:44:06 | From=user1@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 10:22:03 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-05 10:14:18 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-02 15:41:14 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 06:38:24 | From=user1@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 22:10:45 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 10:52:00 | From=admin@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 18:51:36 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 16:51:59 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 06:06:36 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 01:07:14 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 21:28:13 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 21:23:04 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 01:29:05 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 04:30:24 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 11:10:58 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 22:17:53 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 21:36:53 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 11:48:34 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 02:53:40 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 16:34:28 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 03:01:16 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 18:48:45 | From=user3@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 13:21:10 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 21:12:36 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 02:52:00 | From=user2@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 15:01:40 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 13:07:52 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 09:59:57 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 02:43:21 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 02:50:51 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 07:37:05 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 15:49:30 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 22:10:16 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 00:00:14 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 01:37:04 | From=admin@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 07:41:17 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 08:46:13 | From=user3@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 11:30:47 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 15:48:12 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 12:01:00 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 14:23:18 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-07 07:45:02 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 20:37:37 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 20:53:48 | From=admin@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 16:00:59 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 15:35:17 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 02:02:38 | From=admin@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-02 03:44:23 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 22:57:17 | From=user1@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 22:02:58 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 11:03:55 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 18:29:09 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 06:03:11 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 11:14:59 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 03:08:32 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-05 00:34:24 | From=user1@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 11:31:01 | From=user3@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 20:17:58 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 03:45:56 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 15:50:16 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 15:44:38 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 04:20:34 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-03 23:54:30 | From=user3@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 01:35:18 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 15:49:44 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-04 12:11:39 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 01:44:20 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 07:56:15 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 07:37:32 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 19:04:01 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 00:20:25 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 07:08:46 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 02:53:19 | From=admin@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-02 19:52:50 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-04 18:30:59 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 21:24:58 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 09:57:23 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 23:47:49 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 18:31:20 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 19:09:21 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 22:35:48 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 06:58:25 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 19:34:14 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-01 13:40:55 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-05 07:43:45 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 04:26:09 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 02:28:53 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 12:02:18 | From=admin@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 10:13:18 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 10:57:55 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-05 00:02:39 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 00:43:36 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 05:18:08 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-06 01:31:29 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 20:52:30 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-05 23:14:22 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 08:43:48 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 11:23:58 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 16:51:55 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 20:08:03 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 05:57:26 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 00:56:04 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 14:32:52 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 02:36:14 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 08:38:19 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-02 15:46:47 | From=user3@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 10:36:51 | From=user1@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 15:43:20 | From=user3@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 18:41:16 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 03:30:57 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-04 23:04:23 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-06 08:11:39 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 09:16:01 | From=user1@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 11:02:53 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-05 07:56:47 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 05:33:49 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 19:10:06 | From=user3@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 01:22:33 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 00:27:44 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 05:28:25 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 12:54:04 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 09:57:21 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 03:14:35 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 02:27:57 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 19:04:32 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-01 22:21:52 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 19:09:15 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-05 10:02:13 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 03:30:49 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 01:49:20 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 12:25:50 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 04:09:42 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 02:47:45 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 19:39:24 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 19:09:36 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 08:39:30 | From=user1@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 04:25:10 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 09:33:04 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 16:30:49 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 14:05:54 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 22:24:54 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 12:18:27 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 22:04:40 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 06:10:18 | From=admin@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 05:03:40 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-02 05:23:46 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 14:11:11 | From=user3@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 21:37:04 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-05 18:34:29 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 13:50:50 | From=user1@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-03 12:52:18 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 11:11:44 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 17:47:19 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-05 01:45:50 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 10:17:29 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 13:34:21 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 07:51:27 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 07:42:05 | From=user1@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 10:09:10 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 04:27:39 | From=user3@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 23:52:06 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 15:14:52 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 13:14:11 | From=admin@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 17:08:39 | From=user3@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-05 10:24:02 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-07 03:26:05 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 03:17:42 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-03 16:49:56 | From=user3@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 00:10:05 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 19:33:29 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 04:57:15 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 03:46:31 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 15:11:26 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-03 23:59:42 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 19:37:53 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 15:59:21 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 10:43:49 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 06:49:10 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 20:21:55 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 01:36:55 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-06 23:57:17 | From=user3@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 15:01:34 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 05:26:28 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 20:56:42 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 15:32:09 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 09:39:31 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 05:29:05 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 00:56:45 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-02 05:40:17 | From=user2@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 09:40:10 | From=user3@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-06 11:32:44 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 02:19:51 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 05:45:30 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 19:26:21 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 14:42:35 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 18:28:39 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-03 09:29:31 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 10:57:09 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-02 08:08:33 | From=admin@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 06:01:22 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 04:27:14 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 23:53:34 | From=admin@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 14:54:34 | From=user2@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 23:08:03 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 23:33:32 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-06 06:15:25 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-05 03:06:55 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 07:09:30 | From=admin@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 07:57:09 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 04:31:36 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 19:38:28 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 16:53:45 | From=user1@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-04 14:04:04 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 12:31:21 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-02 21:21:36 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 06:39:52 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 03:31:55 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 12:02:17 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 23:18:36 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 03:43:50 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 07:11:22 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 08:04:06 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 18:14:27 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 10:15:33 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-03 18:03:03 | From=user3@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 21:53:29 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 15:06:21 | From=user2@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 05:26:53 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 04:11:12 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 06:08:44 | From=admin@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 23:50:32 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 13:42:06 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-02 08:24:19 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 14:48:45 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 07:33:53 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-02 19:56:45 | From=user3@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 13:18:55 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-06 16:34:05 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 10:36:21 | From=user2@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 07:15:48 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 18:21:04 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 20:32:55 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-05 11:28:44 | From=user1@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 19:38:21 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-06 23:23:30 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 20:01:10 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 09:29:48 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 06:38:56 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 11:56:10 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 09:20:35 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 13:45:08 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 07:42:07 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 19:17:10 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 00:06:39 | From=user3@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 19:43:16 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 13:46:26 | From=user3@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 02:58:23 | From=admin@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 10:09:07 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 08:50:04 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 23:32:18 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-06 14:49:48 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 15:54:47 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 10:59:05 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 09:19:19 | From=user3@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-04 15:14:16 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 13:02:34 | From=user2@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 11:44:26 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 16:11:40 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 14:16:30 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-03 21:46:28 | From=user3@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 01:11:51 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 19:24:43 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 03:14:19 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 23:49:50 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 12:19:58 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-02 00:54:01 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 18:54:27 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 05:41:40 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 05:11:21 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 16:56:31 | From=user1@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-04 01:47:58 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 18:03:15 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 17:34:24 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 12:36:22 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 16:37:30 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 20:48:05 | From=admin@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 22:17:08 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-01 05:10:44 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 08:27:51 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 16:15:40 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 01:48:24 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 23:23:09 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-05 04:35:48 | From=user2@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 22:48:49 | From=user1@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-05 08:48:03 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 23:57:01 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 01:20:08 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-06 16:06:52 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 22:23:12 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-03 12:16:13 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 09:47:58 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 04:01:30 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-05 18:16:01 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 01:43:50 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 23:21:35 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 14:16:44 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 21:05:08 | From=admin@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-02 22:41:21 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 01:37:26 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-06 21:23:56 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 16:51:18 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 10:07:00 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 08:24:42 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 00:34:14 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 07:45:24 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-06 21:24:06 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 13:26:26 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 10:31:01 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-04 01:10:37 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 14:56:11 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 19:19:43 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-06 11:03:19 | From=user3@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 23:02:06 | From=user2@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-06 05:52:40 | From=user1@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-02 00:53:16 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 04:03:24 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 02:10:34 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 03:40:07 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-03 08:14:07 | From=user3@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 08:10:49 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 16:08:37 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-01 19:38:12 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 15:36:03 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 15:04:02 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 19:42:43 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 02:24:12 | From=admin@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 23:41:28 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 21:06:59 | From=user1@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-04 05:10:28 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 17:26:22 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 05:40:11 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 10:00:41 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 22:08:43 | From=user1@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 22:20:25 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 14:50:41 | From=user3@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 16:23:54 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 11:49:28 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 10:39:38 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 13:58:39 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 01:33:06 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 22:07:09 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 12:40:53 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 06:35:57 | From=user3@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 03:51:28 | From=user1@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 19:55:26 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 09:36:56 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 04:06:57 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-02 15:30:46 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-03 10:59:21 | From=user3@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-04 02:46:42 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 23:12:35 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 15:07:22 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-05 13:18:44 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 23:02:00 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-04 19:56:48 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 07:31:38 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 17:10:40 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 08:19:27 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 16:21:07 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 09:35:26 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 17:46:22 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 00:34:35 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 11:59:56 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 16:44:10 | From=admin@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 20:53:52 | From=user3@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-05 16:41:52 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 18:27:35 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 17:05:42 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 20:33:11 | From=user3@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 08:10:50 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 02:25:58 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 15:18:03 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 16:21:21 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 21:51:18 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 13:05:44 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 23:06:56 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-06 10:55:16 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 06:57:21 | From=user3@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 05:37:21 | From=user3@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-06 00:25:03 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 20:20:53 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-05 05:04:59 | From=user1@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 13:58:52 | From=admin@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-03 18:29:53 | From=user3@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 22:49:31 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 05:43:33 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 04:47:34 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 09:33:43 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 03:43:32 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-04 14:22:41 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 17:05:07 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 23:45:37 | From=user3@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 00:44:23 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 04:06:03 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 22:18:05 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 02:58:10 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 08:51:45 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 05:59:36 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 08:12:18 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 06:34:33 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 07:10:26 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 16:52:43 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 19:24:35 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 07:14:56 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 19:52:49 | From=user2@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 14:01:18 | From=user3@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-03 09:25:46 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 15:42:03 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 02:33:27 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 15:45:22 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 19:46:07 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 13:45:42 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 18:00:13 | From=user3@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 02:36:58 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 20:51:24 | From=admin@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 14:22:11 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 21:54:57 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 09:00:38 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 10:09:01 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-03 23:10:19 | From=user1@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-05 12:00:36 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 21:24:10 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 16:59:06 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 09:30:39 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 06:40:59 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-01 01:20:09 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 22:50:34 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 07:33:16 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 19:40:09 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 12:53:00 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 09:49:00 | From=user3@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 19:23:48 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 02:40:08 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 14:11:00 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 06:06:49 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 22:56:36 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-04 10:39:37 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 00:03:40 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 21:26:47 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 02:41:39 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 00:01:16 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 22:33:10 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 17:52:36 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 10:57:14 | From=admin@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 02:13:38 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 21:26:54 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 22:39:35 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 08:20:41 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 22:11:29 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 01:53:33 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 04:18:50 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 03:54:30 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 16:30:42 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 16:02:43 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 11:06:07 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 14:24:12 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 17:19:35 | From=user3@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 00:35:11 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 09:48:49 | From=admin@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 21:47:17 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 01:14:47 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 12:35:37 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-05 21:04:53 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 03:01:39 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 05:49:52 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 21:28:56 | From=admin@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 22:40:38 | From=user3@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 02:14:22 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 00:41:07 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 06:32:35 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 03:53:28 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-02 01:18:14 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-04 18:00:50 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 11:21:09 | From=user1@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 01:52:05 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 14:18:37 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-06 10:59:58 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 07:57:01 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 07:53:54 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 10:10:39 | From=user3@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 18:13:26 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 06:06:48 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 14:19:31 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 12:07:20 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-02 21:34:04 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 06:33:27 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 08:44:44 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 10:12:28 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 06:05:09 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 13:46:55 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 12:00:30 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 06:26:30 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-07 07:44:53 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 16:02:10 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-02 04:00:23 | From=user2@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 04:57:58 | From=admin@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 23:47:06 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 07:30:43 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 04:44:10 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 02:55:32 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-03 09:25:57 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 21:06:22 | From=user3@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 02:50:34 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 16:39:50 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 15:53:45 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-01 03:06:10 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 23:12:37 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-03 10:34:20 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 05:43:40 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 22:24:55 | From=user1@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 06:04:59 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-06 10:10:54 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 05:09:14 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-02 01:19:22 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 11:05:31 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 03:01:53 | From=user3@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-04 09:11:22 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 22:08:31 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 07:19:43 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 19:45:22 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 19:25:38 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-05 18:41:40 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-05 04:00:28 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 01:35:32 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-06 19:22:08 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 10:38:57 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 08:02:18 | From=user3@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-06 08:11:16 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 01:29:15 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-05 17:39:27 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-02 08:18:26 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 02:14:31 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 18:44:47 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-05 18:41:29 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 06:25:43 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 04:06:47 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-03 12:25:13 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 14:40:56 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-06 14:02:51 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 22:22:20 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 11:56:55 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 15:16:44 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 10:29:20 | From=user2@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 09:25:08 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-01 21:07:38 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 05:01:25 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-01 13:42:10 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-07 18:42:22 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-03 23:27:16 | From=user3@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-06 21:50:24 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-03 06:20:55 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 20:00:08 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 19:33:42 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-04 09:33:16 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-01 03:23:29 | From=user3@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-03 09:35:12 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 03:34:41 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 03:21:35 | From=admin@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 14:54:35 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 15:16:19 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-07 22:04:11 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 10:50:20 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-01 14:17:32 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-07 00:18:23 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-07 07:52:54 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 04:33:51 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-06 13:15:48 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 23:58:57 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 14:17:21 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-04 22:25:16 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-07 15:36:38 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-04 21:22:27 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 13:48:26 | From=user1@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-06 14:46:48 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-02 21:26:59 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 16:26:25 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-04 09:16:36 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-02 00:42:45 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-07 18:53:06 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-07 16:37:52 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 21:35:35 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-04 23:50:49 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
-2024-01-02 00:37:16 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-02 07:26:36 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 14:42:45 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-01 04:53:15 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
-2024-01-05 21:40:33 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-06 18:50:50 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
-2024-01-01 03:21:40 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-06 12:12:11 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
-2024-01-05 14:39:12 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
-2024-01-05 13:15:52 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
-2024-01-01 21:52:08 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
-2024-01-03 16:21:45 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-04 08:10:10 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-06 19:03:53 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-05 00:49:09 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-03 17:29:49 | From=admin@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-07 16:12:03 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-03 15:08:35 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-04 18:29:46 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-02 06:15:35 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-05 10:00:50 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-05 01:28:20 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-03 00:19:26 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-07 00:36:05 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-02 06:33:38 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-06 18:02:04 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-04 01:31:48 | From=user1@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-03 01:57:38 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-05 14:49:25 | From=admin@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-03 08:04:27 | From=user1@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-07 00:16:27 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-05 23:22:47 | From=user3@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-06 03:43:53 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-03 03:00:54 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-07 14:05:44 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-07 01:49:37 | From=user3@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-03 09:35:37 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-07 01:49:31 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-04 18:14:51 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-06 01:23:39 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-06 00:35:33 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-02 23:46:43 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-04 00:16:45 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-03 10:42:21 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-05 19:21:03 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-03 02:21:29 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-03 03:45:25 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-02 17:39:43 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-02 04:02:54 | From=user1@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-03 22:09:19 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-06 12:07:08 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-04 00:02:42 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-06 05:46:22 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-03 10:13:28 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-05 22:45:11 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-06 12:59:39 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-04 03:25:27 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-05 15:54:05 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-02 04:32:44 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-06 08:24:52 | From=user2@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-03 10:45:03 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-01 14:00:17 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-04 06:01:49 | From=user1@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-01 14:48:22 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-06 01:46:51 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-03 03:07:14 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-03 17:36:34 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-03 22:25:53 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-04 00:21:15 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-04 16:51:43 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-02 04:23:57 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-02 13:00:40 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-06 16:55:56 | From=user3@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-01 21:06:10 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-03 10:26:31 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-06 07:04:33 | From=admin@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-03 15:36:02 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-03 05:13:27 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-02 09:25:20 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-03 15:38:46 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-04 02:25:22 | From=user1@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-02 06:51:26 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-03 03:19:21 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-01 00:40:37 | From=user3@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-05 02:10:36 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-03 08:11:28 | From=user2@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-01 17:49:01 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-04 11:11:21 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-07 14:07:43 | From=admin@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-03 08:41:32 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-07 04:19:12 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-04 08:17:54 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-02 10:13:00 | From=admin@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-03 20:17:08 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-01 00:08:06 | From=user3@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-01 06:07:44 | From=user3@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-07 05:20:30 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-06 08:29:49 | From=user1@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-07 13:43:57 | From=admin@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-04 10:49:21 | From=user1@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-05 17:16:56 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-04 12:25:21 | From=user1@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-04 22:59:55 | From=user1@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-01 22:57:19 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-02 09:08:45 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-04 17:12:43 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-01 01:31:50 | From=admin@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-07 22:46:56 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-03 04:03:00 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-02 21:57:12 | From=user3@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-03 21:10:25 | From=user1@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-03 12:06:41 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-04 04:52:31 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-01 01:38:13 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-05 17:12:39 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-07 03:26:31 | From=user3@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-07 03:53:23 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-04 01:33:56 | From=user1@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-06 15:48:53 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-07 04:26:25 | From=user2@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-05 14:12:10 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-03 10:36:49 | From=user2@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-02 22:14:34 | From=user2@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-03 14:27:43 | From=user2@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-06 08:03:46 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-06 09:53:39 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-03 20:51:12 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-01 08:27:39 | From=user3@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-05 01:21:00 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-04 17:08:49 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-07 00:57:21 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-01 11:37:13 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-06 17:25:58 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-03 14:45:41 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-02 11:03:18 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-07 18:45:14 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-04 22:36:11 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-02 18:52:06 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-01 08:23:20 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-06 21:16:46 | From=admin@company.com | To=user2@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-01 10:23:15 | From=user3@company.com | To=admin@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-04 23:43:04 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-02 23:32:19 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-04 02:07:48 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-06 02:20:50 | From=admin@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-02 14:42:59 | From=user1@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-05 21:05:02 | From=admin@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-03 01:26:15 | From=user3@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-01 01:00:50 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-04 03:22:10 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-05 04:21:45 | From=admin@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-06 02:55:23 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-07 12:17:23 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-02 13:22:10 | From=user2@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-05 19:50:14 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-01 16:14:32 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-01 19:51:04 | From=user3@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-04 14:13:58 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-04 23:15:06 | From=admin@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-04 08:50:12 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-06 10:34:07 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-02 06:56:49 | From=user3@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-06 22:44:18 | From=user1@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-01 08:36:14 | From=user2@company.com | To=user3@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-02 22:49:58 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-01 10:36:51 | From=user2@company.com | To=user3@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-06 01:28:03 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-01 13:56:11 | From=user2@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-04 05:14:12 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-02 11:50:56 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-02 06:24:09 | From=user2@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-05 18:06:57 | From=admin@company.com | To=user3@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-05 07:24:10 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-05 14:54:50 | From=user1@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-04 07:38:54 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-02 19:21:32 | From=user2@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-06 15:28:50 | From=user3@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-03 11:29:25 | From=admin@company.com | To=user1@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-02 15:21:27 | From=admin@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-01 11:05:01 | From=user3@company.com | To=user2@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-06 02:28:07 | From=user2@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-01 19:02:04 | From=user3@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-06 10:37:13 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-07 14:53:55 | From=user1@company.com | To=admin@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-02 20:18:41 | From=user2@company.com | To=external_server@external.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-05 11:57:25 | From=user2@company.com | To=user1@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-01 19:56:51 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-02 17:18:30 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-05 22:07:50 | From=user3@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-05 07:38:53 | From=user1@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-02 13:10:32 | From=user3@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-07 15:38:02 | From=user1@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-03 15:16:58 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-04 00:47:24 | From=user1@company.com | To=external_server@external.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-01 22:07:28 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-05 15:04:35 | From=user3@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-07 04:22:22 | From=user2@company.com | To=external_user@gmail.com | FileAttached=HR_Documents.docx | Action=EmailSent | Unauthorized=True
+2024-01-07 03:01:33 | From=user1@company.com | To=user2@company.com | Subject=Meeting Update | Action=EmailSent
+2024-01-01 00:08:14 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-07 16:50:05 | From=user3@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-01 22:16:32 | From=user3@company.com | To=admin@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-01 04:39:23 | From=user1@company.com | To=external_user@gmail.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-04 08:32:59 | From=user1@company.com | To=admin@company.com | Subject=Report Submission | Action=EmailSent
+2024-01-05 22:14:21 | From=admin@company.com | To=external_server@external.com | FileAttached=Financial_Report.xls | Action=EmailSent | Unauthorized=True
+2024-01-04 23:53:59 | From=admin@company.com | To=external_user@gmail.com | FileAttached=Sensitive_File.txt | Action=EmailSent | Unauthorized=True
+2024-01-07 05:18:04 | From=user3@company.com | To=user1@company.com | Subject=Client Feedback | Action=EmailSent
+2024-01-03 13:23:07 | From=admin@company.com | To=user1@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-06 22:41:15 | From=user1@company.com | To=user3@company.com | Subject=Project Plan | Action=EmailSent
+2024-01-05 22:34:50 | From=admin@company.com | To=user2@company.com | Subject=Project Plan | Action=EmailSent

@@ -3,20 +3,21 @@ import sys
 import random
 from time import sleep
 from valid_activity import simulate_valid_logins, simulate_valid_file_access, simulate_valid_emails
-from threat_activity import simulate_threat_logins, simulate_threat_file_access, simulate_threat_file_transfers, simulate_threat_emails
+from threat_activity import (simulate_threat_logins, simulate_threat_file_access, 
+                             simulate_threat_file_transfers, simulate_threat_emails, 
+                              simulate_out_of_hours_access, 
+                             simulate_unauthorized_software_installation, simulate_usb_device_use)
 from utils import start_time, end_time, generate_random_timestamp
 
 # Asegurarse de que Python busque en el directorio actual los módulos necesarios.
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 # Cargar la configuración desde config.json
-# Aquí es donde se define la distribución de eventos, archivos, usuarios y configuraciones de amenazas.
 import json
 with open("config.json", "r") as config_file:
     config = json.load(config_file)
 
 # Crear la carpeta "logs" si no existe.
-# Todos los eventos generados se guardarán en esta carpeta.
 if not os.path.exists("logs"):
     os.makedirs("logs")
 
@@ -29,8 +30,8 @@ def is_work_hours():
 
 # Función principal para generar eventos mixtos (tanto válidos como amenazas)
 def generate_mixed_events():
-    # Calcular el número total de eventos según lo especificado en config.json
-    total_events = sum(config["event_distribution"][event]["valid"] + config["event_distribution"][event]["threat"] for event in config["event_distribution"])
+    # Calcular el número total de eventos, asegurándose de que se manejan tanto eventos con "valid" como solo "threat"
+    total_events = sum(config["event_distribution"][event].get("valid", 0) + config["event_distribution"][event]["threat"] for event in config["event_distribution"] if "threat" in config["event_distribution"][event])
     
     # Definir los intervalos mínimos y máximos entre eventos
     min_interval = config["interval_distribution"]["min_interval"]
@@ -38,20 +39,24 @@ def generate_mixed_events():
 
     # Iterar para generar el número total de eventos
     for _ in range(total_events):
-        # Generar un evento aleatorio: 70% de probabilidad de que sea válido y 30% de que sea una amenaza
-        if random.random() < 0.7:
-            # Generar un evento válido
+        # Generar un evento aleatorio: 60% válidos, 20% escalación de privilegios, y 20% otras amenazas
+        event_type = random.random()
+        if event_type < 0.6:
+            # Generar eventos válidos
             simulate_valid_logins(1)
             simulate_valid_file_access(1)
             simulate_valid_emails(1)
         else:
-            # Generar una amenaza
+            # Generar otras amenazas
             simulate_threat_logins(1)
             simulate_threat_file_access(1)
             simulate_threat_file_transfers(1)
             simulate_threat_emails(1)
+            simulate_out_of_hours_access(1)
+            simulate_unauthorized_software_installation(1)
+            simulate_usb_device_use(1)
         
-        # Introducir un intervalo aleatorio entre eventos, usando los valores configurados.
+        # Intervalo ajustable entre eventos
         sleep(random.uniform(min_interval, max_interval))
 
 # Ejecutar la función principal para iniciar la simulación.

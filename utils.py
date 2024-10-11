@@ -12,6 +12,10 @@ with open("config.json", "r") as config_file:
 start_time = datetime.strptime(config["date_range"]["start_time"], "%Y-%m-%d %H:%M:%S")
 end_time = datetime.strptime(config["date_range"]["end_time"], "%Y-%m-%d %H:%M:%S")
 
+# Cargar el horario laboral desde config.json
+work_start = datetime.strptime(config["time_settings"]["work_hours_start"], "%H:%M").time()
+work_end = datetime.strptime(config["time_settings"]["work_hours_end"], "%H:%M").time()
+
 # Función para generar una marca de tiempo aleatoria dentro del rango de fechas (start_time, end_time)
 # Esta función se usa para dar a los eventos marcas de tiempo aleatorias pero dentro de un intervalo específico.
 def generate_random_timestamp(start_time, end_time):

@@ -1,36 +1,28 @@
 {
   "users": [
-    { "email": "admin@company.com", "role": "admin" },
-    { "email": "user1@company.com", "role": "employee" },
-    { "email": "user2@company.com", "role": "employee" },
-    { "email": "user3@company.com", "role": "contractor" }
+    {"email": "admin@company.com", "role": "admin"},
+    {"email": "user1@company.com", "role": "employee"},
+    {"email": "user2@company.com", "role": "employee"},
+    {"email": "user3@company.com", "role": "contractor"}
   ],
 
-  "external_emails": [
-    "external_user@gmail.com",
-    "external_server@external.com"
-  ],
+  "external_emails": ["external_user@gmail.com", "external_server@external.com"],
 
   "files": {
     "valid": ["Project_Plan.docx", "Report_2024.pdf", "Client_List.csv"],
-    "sensitive": [
-      "Sensitive_File.txt",
-      "HR_Documents.docx",
-      "Financial_Report.xls"
-    ]
+    "sensitive": ["Sensitive_File.txt", "HR_Documents.docx", "Financial_Report.xls"]
   },
 
-  "external_destinations": [
-    "usb_drive_1",
-    "cloud_storage_1",
-    "external_server_1"
-  ],
+  "external_destinations": ["usb_drive_1", "cloud_storage_1", "external_server_1"],
 
   "event_distribution": {
-    "login": { "valid": 100, "threat": 50 },
-    "file_access": { "valid": 100, "threat": 50 },
-    "file_transfer": { "valid": 50, "threat": 30 },
-    "emails": { "valid": 100, "threat": 30 }
+    "login": {"valid": 100, "threat": 50},
+    "file_access": {"valid": 100, "threat": 50},
+    "file_transfer": {"valid": 50, "threat": 30},
+    "emails": {"valid": 100, "threat": 30},
+    "out_of_hours_access": {"threat": 20},
+    "unauthorized_software_installation": {"threat": 10},
+    "usb_device_use": {"threat": 15}
   },
 
   "time_settings": {
